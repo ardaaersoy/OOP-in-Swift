@@ -7,22 +7,28 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A0566DCA25D7A14400786373 /* Part#2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Part#2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		A0566DCB25D7A15900786373 /* Part#1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Part#1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		A0566DCC25D7A41300786373 /* Part#4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Part#4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		A0566DCD25D7AAB400786373 /* Part#5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Part#5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		A0566DCF25D7B2F300786373 /* Part#3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Part#3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A03A297225DA4349001AB382 /* ProtocolWithMutatingMethod.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithMutatingMethod.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A03A297325DA4609001AB382 /* ProtocolWithInitializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithInitializer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A03A297425DA4771001AB382 /* ProtocolWithDelegation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithDelegation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A0566DCA25D7A14400786373 /* Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A0566DCB25D7A15900786373 /* ClassesAndObjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassesAndObjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A0566DCC25D7A41300786373 /* Polymorphism.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Polymorphism.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A0566DCD25D7AAB400786373 /* ProtocolWithPropertyMethod.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithPropertyMethod.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A0566DCF25D7B2F300786373 /* Encapsulation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Encapsulation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		A0566DC225D7999300786373 = {
 			isa = PBXGroup;
 			children = (
-				A0566DCB25D7A15900786373 /* Part#1.playground */,
-				A0566DCA25D7A14400786373 /* Part#2.playground */,
-				A0566DCF25D7B2F300786373 /* Part#3.playground */,
-				A0566DCC25D7A41300786373 /* Part#4.playground */,
-				A0566DCD25D7AAB400786373 /* Part#5.playground */,
+				A0566DCB25D7A15900786373 /* ClassesAndObjects.playground */,
+				A0566DCA25D7A14400786373 /* Inheritance.playground */,
+				A0566DCF25D7B2F300786373 /* Encapsulation.playground */,
+				A0566DCC25D7A41300786373 /* Polymorphism.playground */,
+				A0566DCD25D7AAB400786373 /* ProtocolWithPropertyMethod.playground */,
+				A03A297225DA4349001AB382 /* ProtocolWithMutatingMethod.playground */,
+				A03A297325DA4609001AB382 /* ProtocolWithInitializer.playground */,
+				A03A297425DA4771001AB382 /* ProtocolWithDelegation.playground */,
 			);
 			sourceTree = "<group>";
 		};

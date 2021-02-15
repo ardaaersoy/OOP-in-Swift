@@ -1,5 +1,5 @@
 //
-//  Part#2.playground
+//  Inheritance.playground
 //  Object Oriented Programming
 //
 //  Created by Arda Ersoy on 13.02.2021.

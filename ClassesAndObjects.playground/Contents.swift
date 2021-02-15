@@ -1,5 +1,5 @@
 //
-//  Part#1.playground
+//  ClassesAndObjects.playground
 //  Object Oriented Programming
 //
 //  Created by Arda Ersoy on 13.02.2021.
