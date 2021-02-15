@@ -10,6 +10,7 @@
 		A03A297225DA4349001AB382 /* ProtocolWithMutatingMethod.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithMutatingMethod.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A03A297325DA4609001AB382 /* ProtocolWithInitializer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithInitializer.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A03A297425DA4771001AB382 /* ProtocolWithDelegation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocolWithDelegation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A051EE7F25DAA5DC00668F5D /* Definitions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Definitions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A0566DCA25D7A14400786373 /* Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A0566DCB25D7A15900786373 /* ClassesAndObjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ClassesAndObjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A0566DCC25D7A41300786373 /* Polymorphism.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Polymorphism.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -21,6 +22,7 @@
 		A0566DC225D7999300786373 = {
 			isa = PBXGroup;
 			children = (
+				A051EE7F25DAA5DC00668F5D /* Definitions.playground */,
 				A0566DCB25D7A15900786373 /* ClassesAndObjects.playground */,
 				A0566DCA25D7A14400786373 /* Inheritance.playground */,
 				A0566DCF25D7B2F300786373 /* Encapsulation.playground */,
